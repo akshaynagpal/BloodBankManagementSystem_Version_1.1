@@ -1,0 +1,75 @@
+.container
+{
+background-image: url("green_cup.png");
+	margin-left:253px;
+	margin-right: 253px;
+}
+#footer
+{	
+	width:100%;
+	bottom: 0;
+	height: 20px;
+	float:left;
+	/*position: absolute;*/
+	background: #FF4D4D;
+}
+a
+{
+	text-decoration: none;
+}
+.regbutton
+{
+	background: gradient(#FFFF33,#85D6FF);
+	border:solid 2px;
+	border-radius: 10px;
+	display: inline-block;
+}
+.donorlogin
+{
+
+}
+.heading
+{
+	text-align: center;
+}
+.left1
+{
+	width: 400px;
+	float: left;
+	border:2px solid;
+	border-radius: 15px;
+	background: #FF4D4D;
+	/*background-color: #FFFF33;  */
+	text-align: center;
+	margin: 5px;
+}
+.left2
+{
+margin-left: 10px;
+width:400px;
+float: left;
+border:2px solid;
+border-radius: 15px;
+background-color: #85D6FF;
+text-align: center;
+margin: 5px;
+}
+.l2text
+{
+ padding:10px;
+}
+
+a:link,a:visited
+{
+color:black;
+width:250px;
+}
+a:hover,a:active
+{
+color:white;
+}
+#content
+{
+background-image: url("old_moon_@2x.jpg");
+height: auto;	
+}
