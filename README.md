@@ -10,7 +10,7 @@ Screenshot of homepage.(under dev. mode)
 Screenshot of Registration page.(under dev. mode)
 
 --------------------------------------------------------------------------------------------------------
-GNU GENERAL PUBLIC LICENSE  Version 2, June 1991
+GNU GENERAL PUBLIC LICENSE  Version 2, June 1991 
 
 Blood Bank Management System
 Copyright (C) {year}  Akshay Nagpal
