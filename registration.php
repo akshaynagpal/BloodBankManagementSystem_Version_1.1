@@ -66,8 +66,7 @@ Blood Group:<input required id="bgroup" name="bgroup" list="blood_groups">
 </datalist><br>
 <input  type="submit">
 </form>
-Your progress:
-<progress max="100" value="0" id="progress"></progress>
+
 		</div>
 </body>
 <div id="footer">
