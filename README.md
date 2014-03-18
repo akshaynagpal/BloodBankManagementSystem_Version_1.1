@@ -25,5 +25,5 @@ Copyright (C) {year}  Akshay Nagpal
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-Click [here](https://raw.github.com/akshaynagpal/BloodBankManagementSystem_Version_1.1/master/License) for Complete licence.
+Click <a href="https://raw.github.com/akshaynagpal/BloodBankManagementSystem_Version_1.1/master/License">here</a> for Complete licence.
 --------------------------------------------------------------------------------------------------------
