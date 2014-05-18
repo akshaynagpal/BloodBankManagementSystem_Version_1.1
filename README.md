@@ -13,10 +13,12 @@ It has the following features:
 ===================
 
 ![ScreenShot](https://raw.githubusercontent.com/akshaynagpal/BloodBankManagementSystem_Version_1.1/master/scr1.png)
+Home Page
 <br>
 ![ScreenShot](https://raw.githubusercontent.com/akshaynagpal/BloodBankManagementSystem_Version_1.1/master/scr2.png)
+Search for data
 <br>
 ![ScreenShot](https://raw.githubusercontent.com/akshaynagpal/BloodBankManagementSystem_Version_1.1/master/scr3.png)
-
+Insert new data
 
 
